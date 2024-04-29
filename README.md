@@ -21,4 +21,4 @@ Ce projet vise à créer un assistant vocal similaire à Alexa, utilisant les te
 Assurez-vous que Python et pip sont correctement installés sur votre système, puis installez les dépendances suivantes :
 
 ```bash
-pip install SpeechRecognition gTTS openai
+pip install --user SpeechRecognition gTTS openai
